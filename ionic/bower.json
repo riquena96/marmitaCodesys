@@ -6,5 +6,9 @@
   },
   "dependencies": {
     "angular-oauth2": "^4.1.0"
+  },
+  "resolutions": {
+    "angular-oauth2": "^4.1.0",
+    "angular": ">= 1.0.8"
   }
 }
